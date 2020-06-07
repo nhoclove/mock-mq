@@ -1,0 +1,25 @@
+{
+    "topics": [
+        "test-topic"
+    ],
+    "messages": [
+        {
+            "header": {
+                "k1": "v1"
+            },
+            "key": "k1",
+            "value": {
+                "v1": "v1"
+            }
+        },
+        {
+            "header": {
+                "k1": "v1"
+            },
+            "key": "k1",
+            "value": {
+                "v2": "v2"
+            }
+        }
+    ]
+}
